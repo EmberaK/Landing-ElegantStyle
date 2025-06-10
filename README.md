@@ -10,8 +10,6 @@
 It features a clean layout, strong visuals, and minimal distractions.  
 The website is fully in English and geo-targeted to the United States.
 
-> A stylish thing for Rema.
-
 ---
 
 ## 🔧 Technologies
